@@ -10,5 +10,7 @@ chmod +x ./1314stability.sh
 Where 'n' is the number of compression-decompression cycles. (f.e. ./1314stability.sh 100000 )
 
 ## Warning
-The script will temporarely create 2 files: 'temp' and 'temp2'; therefore, **I suggest running it in a tmpfs environment.**
+The script will temporarely create 2 files: 'temp' and 'temp2', which will be overwritten a lot.
+
+Therefore, **I suggest running it in a tmpfs environment.**
 But it's not necessary of course.
