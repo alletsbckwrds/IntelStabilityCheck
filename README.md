@@ -1,5 +1,5 @@
 # IntelStabilityCheck
-Rudimental stability check script for 13th and 14th gen Intel CPUs, as the K series seem to have stability issues - specifically when decompressing data.
+Rudimental stability check script for 13th and 14th gen Intel CPUs, as the K series seem to have stability issues - especially when decompressing data.
 
 ## Usage
 chmod +x ./1314stability.sh
