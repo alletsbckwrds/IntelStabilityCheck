@@ -1,5 +1,5 @@
 # IntelStabilityCheck
-Stability check for 13th and 14th gen Intel CPUs, as the K series seem to have issues with stability - specifically decompressing data.
+Stability check for 13th and 14th gen Intel CPUs, as the K series seem to have stability issues - specifically when decompressing data.
 
 ## Usage
 chmod +x ./1314stability.sh
